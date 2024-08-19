@@ -1,2 +1,0 @@
-# portfolio-
-Srinu_portfolio
