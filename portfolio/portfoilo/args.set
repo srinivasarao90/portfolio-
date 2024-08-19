@@ -1,0 +1,17 @@
+config_file
+/portfolio/portfoilo/config.set
+
+design_file
+C:/portfolio/portfoilo/gate/design.v
+
+library_file
+C:/portfolio/portfoilo/library.lib
+
+library_name
+custom
+
+module_name
+circuit
+
+result_folder
+C:/portfolio/portfoilo/results
